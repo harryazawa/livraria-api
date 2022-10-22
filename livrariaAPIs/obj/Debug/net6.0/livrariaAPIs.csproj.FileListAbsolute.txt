@@ -30,3 +30,9 @@ C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\obj\Debug\net6.0\refin
 C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\obj\Debug\net6.0\livrariaAPIs.pdb
 C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\obj\Debug\net6.0\livrariaAPIs.genruntimeconfig.cache
 C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\obj\Debug\net6.0\ref\livrariaAPIs.dll
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\angular.json
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\package-lock.json
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\package.json
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\src\tsconfig.app.json
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\src\tsconfig.spec.json
+C:\Users\harry\Documents\Coding\livrariaAPIs\livrariaAPIs\bin\Debug\net6.0\frontend\tsconfig.json
